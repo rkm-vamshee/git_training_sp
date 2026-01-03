@@ -1,3 +1,17 @@
 Inside Git bash
 git clone <git repourl>
 
+=> TO check changed files 
+
+git status 
+
+
+=> To move code to Local repo 
+
+2 steps
+git add .
+git commit -m "added test file and git cmds file"
+
+=> To move code from Local repo to central repo 
+
+git push
