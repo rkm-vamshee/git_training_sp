@@ -20,7 +20,7 @@ git push
 Agenda:
 ===========
 Git Branches
-Git VS Code 
+Git - VS Code => Experience 
 GIt ignore 
 
 
@@ -60,3 +60,7 @@ git branch -d test1_branch
 => Create branch, do some changes and commit
 git branch categories_branch
 
+
+git checkout main
+
+git pull origin categories_branch
