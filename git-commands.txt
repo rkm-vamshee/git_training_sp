@@ -15,3 +15,48 @@ git commit -m "added test file and git cmds file"
 => To move code from Local repo to central repo 
 
 git push
+
+
+Agenda:
+===========
+Git Branches
+Git VS Code 
+GIt ignore 
+
+
+
+
+
+Git Branches
+=================
+
+main => main branch 
+
+main => addcategories => complete 
+
+main => Before Add Cactegories => 
+
+
+main => add_categories (New Branch) 
+
+Branches
+===========
+Create 
+Go into the branch 
+How to check branches 
+Deleting the branch
+
+
+Commands
+------------
+git branch 
+
+git branch test1_branch
+
+git branch -d test1_branch
+
+
+
+=> Create branch, do some changes and commit
+git branch categories_branch
+
