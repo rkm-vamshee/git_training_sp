@@ -73,5 +73,5 @@ Source Control
 
 
 
-3-GIt ignore 
+3-GIT ignore 
 ===================
