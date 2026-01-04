@@ -71,3 +71,7 @@ git pull origin categories_branch
 Source Control
 
 
+
+
+3-GIt ignore 
+===================
